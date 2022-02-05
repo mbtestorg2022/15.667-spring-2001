@@ -8,16 +8,118 @@ To ease navigation through the 15.667 web site, the topics, readings, and assign
 
 Course syllabus and calendar, including assignments and readings ([PDF]({{< baseurl >}}/resources/syllabus))
 
-| SES # | TOPICS |
-| --- | --- |
-| 1 | Introduction and Course Overview |
-| 2 | What Kind of Negotiator am I? |
-| 3 | Distributive and Mixed Motive Bargaining |
-| 4 | Integrative and Mixed Motive Bargaining |
-| 5 | Competitive and Cooperative Styles and Do Gender or Culture Make a Difference? |
-| 6 | Negotiating in Context |
-| 7 | Origins of Conflict – Dispute Prevention – Delegating Conflict Management to the Disputant |
-| 8 | Your Employer's Dispute Resolution and Complaint Handling System |
-| 9 | Conciliation and Mediation |
-| 10 | Investigation, Arbitration and Exceptionally Difficult People  {{< br >}}(Double class, 6 hours) |
-| 11 | More Negotiating with Difficult People
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and Course Overview
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+What Kind of Negotiator am I?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Distributive and Mixed Motive Bargaining
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Integrative and Mixed Motive Bargaining
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Competitive and Cooperative Styles and Do Gender or Culture Make a Difference?
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Negotiating in Context
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Origins of Conflict – Dispute Prevention – Delegating Conflict Management to the Disputant
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Your Employer's Dispute Resolution and Complaint Handling System
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Conciliation and Mediation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Investigation, Arbitration and Exceptionally Difficult People  
+(Double class, 6 hours)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+More Negotiating with Difficult People
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

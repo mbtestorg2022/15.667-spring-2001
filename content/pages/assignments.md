@@ -8,9 +8,45 @@ Grades are based 50% on class work and 50% on writing: your Little Papers, the j
 
 Many of the documents that relate to these assignments can be found on the [lecture notes]({{< baseurl >}}/pages/lecture-notes) page.
 
-| SES # | TOPICS | ASSIGNMENTS |
-| --- | --- | --- |
-| 1 | Introduction and Course Overview | _Please write your first journal soon after the first class._ Note the page attached to this syllabus on writing a journal. The first journal should include:  {{< br >}}   {{< br >}}{{< br >}} 1.  How did you feel about the class negotiations? Which negotiation strategies do you most naturally follow? Which conditions in a negotiation make you most and least comfortable?{{< br >}}2.  How do you handle conflicts? Read the Class Notes for Session 2 – the article "Options and Choice" includes an "Exercise" requiring you to observe how you personally handle conflicts, and how other people around you handle conflicts.  {{< br >}}    {{< br >}}3.  Fill out the _Thomas-Kilmann Questionnaire_ (see Session 1 [lecture notes]({{< baseurl >}}/pages/lecture-notes) for questionnaire and scoring sheet). There is a triplex answering sheet – developed for this course – which permits you to think about yourself in three different contexts. In other words, you should answer the questionnaire in three ways, e.g. thinking about yourself at home, at work, with a boss or subordinates, etc. You could also copy it and ask a significant other to fill it out about you, if you wish. Please discuss your results on this questionnaire in the journal.{{< br >}}4.  Include a Separate Page, analyzing and discussing the negotiations or presentation of a classmate. _There are pages on the_ _[study materials]({{< baseurl >}}/pages/study-materials)_ _page with questions that may be useful analysis_ – _and feedback._ {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and Course Overview
+{{< tdclose >}}
+{{< tdopen >}}
+_Please write your first journal soon after the first class._ Note the page attached to this syllabus on writing a journal. The first journal should include:  
+  
+
+1.  How did you feel about the class negotiations? Which negotiation strategies do you most naturally follow? Which conditions in a negotiation make you most and least comfortable?
+2.  How do you handle conflicts? Read the Class Notes for Session 2 – the article "Options and Choice" includes an "Exercise" requiring you to observe how you personally handle conflicts, and how other people around you handle conflicts.  
+    
+3.  Fill out the _Thomas-Kilmann Questionnaire_ (see Session 1 [lecture notes]({{< baseurl >}}/pages/lecture-notes) for questionnaire and scoring sheet). There is a triplex answering sheet – developed for this course – which permits you to think about yourself in three different contexts. In other words, you should answer the questionnaire in three ways, e.g. thinking about yourself at home, at work, with a boss or subordinates, etc. You could also copy it and ask a significant other to fill it out about you, if you wish. Please discuss your results on this questionnaire in the journal.
+4.  Include a Separate Page, analyzing and discussing the negotiations or presentation of a classmate. _There are pages on the_ _[study materials]({{< baseurl >}}/pages/study-materials)_ _page with questions that may be useful analysis_ – _and feedback._
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 2 What Kind of Negotiator am I? _Hand in_ your journal, which should include the following four assignments:
 

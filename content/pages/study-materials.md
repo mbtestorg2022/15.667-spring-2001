@@ -19,24 +19,228 @@ The most essential handouts from the course have been assembled into a packet ca
 
 Contents of _Negotiation 101_:
 
-| PAGE # | TOPICS | FILES |
-| --- | --- | --- |
-| 2 | **Negotiation Quiz**  {{< br >}}  {{< br >}}A list of situations which may or may not represent a negotiation. | ([PDF]({{< baseurl >}}/resources/nego_quiz)) |
-| 3-6 | **A Butterfly's View of 15.667** – **Negotiations and Conflict Management**  {{< br >}}  {{< br >}}A list of general questions from the course. | ([PDF]({{< baseurl >}}/resources/butterfly_view)) |
-| 7-8 | **Negotiation Styles/Strategies**  {{< br >}}  {{< br >}}Diagrams of competition, avoidance, accommodation, collaboration, and compromise. | ([PDF]({{< baseurl >}}/resources/neg_styl_strat)) |
-| 9 | **Conflict Styles**This handout answers the question, "When to use which style?" | ([PDF]({{< baseurl >}}/resources/conflict_styles)) |
-| 10-17 | **Negotiation Styles, Definitions, and Team Building** | ([PDF]({{< baseurl >}}/resources/neg_strat_defs_tm)) |
-| 18-19 | **More Terms in Negotiation:  {{< br >}}  {{< br >}}**Bargaining Range, Reservation Point, Expanding the Pie, and Positions vs. Interests | ([PDF]({{< baseurl >}}/resources/more_terms_neg)) |
-| 20 | **Strategy and Style Diagram** | ([PDF]({{< baseurl >}}/resources/strat_style_diag)) |
-| 21-23 | **Ineffective Competitives, Ineffective Cooperatives, Effective Negotiators** | ([PDF]({{< baseurl >}}/resources/ineff_eff)) |
-| 24-25 | **Bargaining Tactics for Distributive, Integrative and Mixed Motive Strategies** | ([PDF]({{< baseurl >}}/resources/bargaining_tactics)) |
-| 26 | **Basic Negotiation and Mediation Tasks** | ([PDF]({{< baseurl >}}/resources/basic_neg_med_tasks)) |
-| 27-38 | **Sources of Power in Negotiations:  {{< br >}}  {{< br >}}**Positional Power, Rewards, Sanctions, Force, Information, Expertise, An Elegant Solution, Charisma, Commitment, Relationship, BATNA | ([PDF]({{< baseurl >}}/resources/src_of_power)) |
-| 39 | **Preparing for a Negotiation** | ([PDF]({{< baseurl >}}/resources/prep_for_neg)) |
-| 40 | **Dealing with Difficult Tactics** | ([PDF]({{< baseurl >}}/resources/dealg_diff_tact)) |
-| 41-42 | **Options for Complaint-Handling  {{< br >}}**  {{< br >}}Includes Problem-Solving and Formal Options | ([PDF]({{< baseurl >}}/resources/complaint_handling)) |
-| 43 | **Changing Behavior** | ([PDF]({{< baseurl >}}/resources/changing_behavior)) |
-| 44 | **How Would You Know If You Are an Effective Negotiator?** | ([PDF]({{< baseurl >}}/resources/how_know_eff_neg)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PAGE #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+FILES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+**Negotiation Quiz**  
+  
+A list of situations which may or may not represent a negotiation.
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/nego_quiz))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3-6
+{{< tdclose >}}
+{{< tdopen >}}
+**A Butterfly's View of 15.667** – **Negotiations and Conflict Management**  
+  
+A list of general questions from the course.
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/butterfly_view))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7-8
+{{< tdclose >}}
+{{< tdopen >}}
+**Negotiation Styles/Strategies**  
+  
+Diagrams of competition, avoidance, accommodation, collaboration, and compromise.
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/neg_styl_strat))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+**Conflict Styles**This handout answers the question, "When to use which style?"
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/conflict_styles))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10-17
+{{< tdclose >}}
+{{< tdopen >}}
+**Negotiation Styles, Definitions, and Team Building**
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/neg_strat_defs_tm))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18-19
+{{< tdclose >}}
+{{< tdopen >}}
+**More Terms in Negotiation:  
+  
+**Bargaining Range, Reservation Point, Expanding the Pie, and Positions vs. Interests
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/more_terms_neg))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+**Strategy and Style Diagram**
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/strat_style_diag))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21-23
+{{< tdclose >}}
+{{< tdopen >}}
+**Ineffective Competitives, Ineffective Cooperatives, Effective Negotiators**
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/ineff_eff))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24-25
+{{< tdclose >}}
+{{< tdopen >}}
+**Bargaining Tactics for Distributive, Integrative and Mixed Motive Strategies**
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/bargaining_tactics))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+**Basic Negotiation and Mediation Tasks**
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/basic_neg_med_tasks))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27-38
+{{< tdclose >}}
+{{< tdopen >}}
+**Sources of Power in Negotiations:  
+  
+**Positional Power, Rewards, Sanctions, Force, Information, Expertise, An Elegant Solution, Charisma, Commitment, Relationship, BATNA
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/src_of_power))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+39
+{{< tdclose >}}
+{{< tdopen >}}
+**Preparing for a Negotiation**
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/prep_for_neg))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+40
+{{< tdclose >}}
+{{< tdopen >}}
+**Dealing with Difficult Tactics**
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/dealg_diff_tact))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+41-42
+{{< tdclose >}}
+{{< tdopen >}}
+**Options for Complaint-Handling  
+**  
+Includes Problem-Solving and Formal Options
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/complaint_handling))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+43
+{{< tdclose >}}
+{{< tdopen >}}
+**Changing Behavior**
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/changing_behavior))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+44
+{{< tdclose >}}
+{{< tdopen >}}
+**How Would You Know If You Are an Effective Negotiator?**
+{{< tdclose >}}
+{{< tdopen >}}
+([PDF]({{< baseurl >}}/resources/how_know_eff_neg))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 {{< anchor "negofothers" >}}{{< /anchor >}}Analyzing, Giving Feedback, and Observing the Negotiations of Others ([PDF]({{< baseurl >}}/resources/analyz_neg_others))
 
