@@ -240,7 +240,7 @@ Do you believe complainants should have options with respect to harassment and d
 **Discussion** of Apologies:
 
 *   Instructor's Notes about Apologies ([PDF]({{< baseurl >}}/resources/lec7_apology_instr_note))
-*   _Elements of an Effective Apology_ (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec7_apology_wagner)) Paper courtesy of Marsha Wagner, Columbia University.
+*   _Elements of an Effective Apology_ ([PDF]({{< baseurl >}}/resources/lec7_apology_wagner)) Paper courtesy of Marsha Wagner, Columbia University.
 
 
 {{< tdclose >}}
@@ -273,7 +273,7 @@ Class**: Case examples and discussion.
 **Handout:**
 
 *   Anonymous Questionnaire on Sources of Satisfaction and Sources of Disputes in the Workplace ([PDF]({{< baseurl >}}/resources/lec8_workplace_satisfaction))
-*   Options in a Conflict Management System (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/lec8_system_options)) Presentation courtesy of Robert A. Fein.
+*   Options in a Conflict Management System ([PDF]({{< baseurl >}}/resources/lec8_system_options)) Presentation courtesy of Robert A. Fein.
 
 
 {{< tdclose >}}
